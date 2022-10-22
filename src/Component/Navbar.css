@@ -1,0 +1,30 @@
+.navbar-brand{
+    margin-left:3%;
+}
+.nav-link{
+    margin-left: 1.0em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    color:white;
+}
+.nav-link:hover{
+    color: rgb(244, 114, 21);
+}
+#home{
+    color:white;
+}
+#home:hover{
+    color: rgb(244, 114, 21);
+}
+#main{
+    margin-left:6.5em;
+}
+.nav-item{
+    display:flex;
+    justify-content: space-between;
+}
+.fa-brands{
+    opacity: 0.4;
+    font-size:20px;
+}
