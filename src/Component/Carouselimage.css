@@ -1,0 +1,32 @@
+/* .Col{
+    float: left;
+        margin-right: 1.5em;
+        width: 47%;
+        height: 44%;
+        padding: 4px;
+}
+#img{
+    height: 450px;
+    width: 100%;
+} */
+.carousel-control-next{
+    margin-top:25em;
+    margin-right:8em;
+}
+.carousel-control-prev{
+    margin-top:25em;
+    margin-left:8em;
+    /* background-size: 100%, 100%; */
+    /* border-radius: 50%; */
+    /* border: 1px solid white; */
+}
+.carousel-caption{
+    height:100px;
+    padding-top:35px;
+    background-color: #dc6226;
+    margin-bottom: -1.2em;
+}
+/* .h3{
+    background-color: orange;
+    padding-top: 50px;
+} */
